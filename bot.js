@@ -90,7 +90,7 @@ msg.delete();
 //////////////////////////////
 client.on("ready", () => { // كود رينبو
   function lol() {
-    client.guilds.get('518174535170654218').roles.find("name", "Rainbow").setColor("RANDOM");
+    client.guilds.get('540353581509771283').roles.find("name", "Rainbow").setColor("RANDOM");
   };
   setInterval(lol, 2000);
 });
